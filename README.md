@@ -1,4 +1,4 @@
-# helloTest
+# helloTest - Confluent Kafka Demo
 This demonstrates a REST interface defined in server.js
 The producer and consumer can be launched by GET messages
 Consumers must "poll" Kafka continuosly for events
